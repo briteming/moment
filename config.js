@@ -1,6 +1,6 @@
 ﻿var _config = {
     appName       : '此刻',          // 博客名称
-    githubId       : 'HTML50',       // github 用户名
+    githubId       : 'briteming',       // github 用户名
     repo            : 'moment',       // github 仓库名
     backgroundMusic      : '//music.163.com/song/media/outer/url?id=1500817509.mp3',
     // 背景音乐的绝对地址
